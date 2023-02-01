@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Internship-app-1/static/css/main.766a6621.css",
-    "main.js": "/Internship-app-1/static/js/main.634a2c3f.js",
+    "main.css": "/Internship-app-1/static/css/main.fbc6a497.css",
+    "main.js": "/Internship-app-1/static/js/main.10a7fcad.js",
     "static/js/787.28cb0dcd.chunk.js": "/Internship-app-1/static/js/787.28cb0dcd.chunk.js",
     "static/media/david-pisnoy-46juD4zY1XA-unsplash.jpg": "/Internship-app-1/static/media/david-pisnoy-46juD4zY1XA-unsplash.4af9ef9bfda1f3ccba51.jpg",
     "index.html": "/Internship-app-1/index.html",
-    "main.766a6621.css.map": "/Internship-app-1/static/css/main.766a6621.css.map",
-    "main.634a2c3f.js.map": "/Internship-app-1/static/js/main.634a2c3f.js.map",
+    "main.fbc6a497.css.map": "/Internship-app-1/static/css/main.fbc6a497.css.map",
+    "main.10a7fcad.js.map": "/Internship-app-1/static/js/main.10a7fcad.js.map",
     "787.28cb0dcd.chunk.js.map": "/Internship-app-1/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.766a6621.css",
-    "static/js/main.634a2c3f.js"
+    "static/css/main.fbc6a497.css",
+    "static/js/main.10a7fcad.js"
   ]
 }
